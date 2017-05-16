@@ -1,3 +1,3 @@
-# React-Redux-Boilerplate
+# React-Redux-Starter-Updated
 
-Just a boilerplate.
+An updated boilerplate for Stephen Grider's courses.
