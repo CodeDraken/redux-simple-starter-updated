@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       test: /\.css$/,
-      loaders: ['style-loader', 'css-lodaer', 'autoprefixer-loader?browsers=last 2 versions'],
+      loaders: ['style-loader', 'css-loader', 'autoprefixer-loader?browsers=last 2 versions'],
     },
     {
       test: /\.scss$/,
