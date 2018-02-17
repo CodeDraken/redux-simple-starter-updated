@@ -1,3 +1,12 @@
 # React-Redux-Starter-Updated
 
-An updated boilerplate for Stephen Grider's courses.
+An updated boilerplate from Stephen Girder.
+
+* axios
+* react
+* react-redux
+* react-router-dom
+* redux-promise
+* redux-form
+* webpack
+* lodash
